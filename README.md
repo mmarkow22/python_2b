@@ -1,7 +1,7 @@
 # Rozwiązanie zadania 2 - SQLAlchemy
 
 ## Ćwiczenia II i III
-plik *clud.py*
+plik *src/python_2b/crud.py*
 
 ## Ćwiczenia IV i V
-plik *relation.py*
+plik *src/python_2b/relation.py*
